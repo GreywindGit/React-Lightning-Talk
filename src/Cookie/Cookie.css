@@ -1,0 +1,14 @@
+.Cookie {
+    display: inline-block;
+    height: 200px;
+    width: 400px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid lightslategrey;
+    box-shadow: 5px 5px darkgrey;
+}
+
+.Cookie button {
+    background-color: lavender;
+    border-radius: 3px;
+}
